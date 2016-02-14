@@ -1,2 +1,2 @@
 # ClassContent
-For developing various class content with collaborators
+For developing shared and open content with collaborators.
